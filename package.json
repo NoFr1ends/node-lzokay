@@ -1,0 +1,15 @@
+{
+  "name": "node-lzokay",
+  "version": "1.0.0",
+  "description": "Node.JS bindings for lzokay",
+  "author": "Jonas Bernemann",
+  "license": "MIT",
+  "gypfile": true,
+  "main": "./build/Release/node-lzokay",
+  "dependencies": {
+    "bindings": "^1.5.0"
+  },
+  "devDependencies": {
+    "nan": "^2.14.1"
+  }
+}
